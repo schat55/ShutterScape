@@ -13,7 +13,7 @@ Welcome to the Photography Website project! This website showcases stunning phot
 
 
 ## Demo
-Checkout the **live** demo here: 
+Checkout the **live** demo here: https://schat55.github.io/ShutterScape/
 
 
 ## Usage
