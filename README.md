@@ -3,6 +3,15 @@
 Welcome to the Photography Website project! This website showcases stunning photographs with an elegant design, leveraging HTML, CSS, and CSS animations for a seamless user experience.
 
 
+## Screenshots
+
+![ShutterScape Screenshot](./ShutterScape.jpg)
+
+
+## Demo
+Checkout the **live** demo here: https://schat55.github.io/ShutterScape/
+
+
 ## Features
 
 - **Responsive Design:** The website is fully responsive and works on all devices, from desktops to mobile phones.
@@ -10,10 +19,6 @@ Welcome to the Photography Website project! This website showcases stunning phot
 - **Gallery:** A beautiful gallery section to showcase photographs in an organized manner.
 - **Navigation:** Easy-to-use navigation to explore different sections of the website.
 - **Contact Form:** A functional contact form for visitors to get in touch.
-
-
-## Demo
-Checkout the **live** demo here: https://schat55.github.io/ShutterScape/
 
 
 ## Usage
@@ -29,6 +34,12 @@ Checkout the **live** demo here: https://schat55.github.io/ShutterScape/
 
 
 
+## Customization
+Feel free to customize the website to suit your preferences:
+
+- CSS: Modify the styles.css file to change colors, fonts, or animations.
+- Images: Replace the images in the images folder to personalize the gallery.
+- Content: Edit the HTML files to update text, links, and other content.
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. Here's how you can contribute:
